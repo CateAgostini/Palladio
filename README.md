@@ -6,5 +6,5 @@ Palladio has visualization and filtering functions, so that you can see both a p
 http://hdlab.stanford.edu/palladio.
 
 Caterina Agostini led several versions of Palladio workshops for diverse audiences:
-- an online workshop, "Using Palladio for Mapping" at Rutgers Digital Humanities Initiative and Lab, on 27 April 2020  and 14 October 2020
-- an online workshop, "Mapping with Digital Humanities Tools" at the 2021 Northeast Modern Language Association (NeMLA) Convention, on 10 March 2021
+- an online workshop at the Rutgers Digital Humanities Initiative and Lab, "Using Palladio for Mapping," on 27 April 2020  and 14 October 2020
+- an online professional workshop for pedagogy and interdisciplinary humanities at the 2021 Northeast Modern Language Association (NeMLA) Convention: "Mapping with Digital Humanities Tools," on 10 March 2021
